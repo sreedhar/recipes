@@ -1,0 +1,8 @@
+Take the desired number of eggs.
+Get a container which can hold all the eggs and still have some extra room on top
+Put the eggs in container.
+Add water to container so that the level is above the eggs.
+Check if any egg is floating, if you find any discard them as they are stale
+Put the container on a stove top and boil until after 10 min when the water starts to boil.
+Drain and add colde water
+Peel eggs -- they are boiled.
